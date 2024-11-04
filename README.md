@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://hoseaportfolio.pages.dev/](https://hoseaportfolio.pages.dev/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://hosea-portfolio-one-neon-35.vercel.app/)
 
 - 💬 Ask me about **NextJs || React || JavaScript**
 
