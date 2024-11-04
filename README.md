@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hosea Nganga</h1>
-<h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
+<h3 align="center">A  frontend developer from Nairobi,Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoseanganga&label=Profile%20views&color=0e75b6&style=flat" alt="hoseanganga" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hozee nganga" target="blank"><img src="https://img.shields.io/twitter/follow/hozee nganga?logo=twitter&style=for-the-badge" alt="hozee nganga" /></a> </p>
 
-- 🔭 I’m currently working on [a Car-Rental Application](https://car-rental-app.pages.dev/)
+- 🔭 I’m currently working on [Android Application]()
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://hosea-portfolio-one-neon-35.vercel.app/)
 
